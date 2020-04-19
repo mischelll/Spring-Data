@@ -1,0 +1,332 @@
+[
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C1",
+      "travelledDistance": 92236854775807
+    },
+    "customerName": "Francis Mckim",
+    "Discount": 0.15,
+    "price": 5315.64,
+    "priceWithDiscount": 4518.29
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Matiz",
+      "travelledDistance": 922337203685807
+    },
+    "customerName": "Nisha Markwell",
+    "Discount": 0.2,
+    "price": 4660.00,
+    "priceWithDiscount": 3728.00
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "M Roadster E85",
+      "travelledDistance": 92233720365807
+    },
+    "customerName": "Brett Brickley",
+    "Discount": 0.5,
+    "price": 7669.88,
+    "priceWithDiscount": 3834.94
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "A 160",
+      "travelledDistance": 9223372036
+    },
+    "customerName": "Carole Witman",
+    "Discount": 0.05,
+    "price": 2449.82,
+    "priceWithDiscount": 2327.33
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Alaskan",
+      "travelledDistance": 92807
+    },
+    "customerName": "Audrea Cardinal",
+    "Discount": 0.15,
+    "price": 3260.85,
+    "priceWithDiscount": 2771.72
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "206",
+      "travelledDistance": 2147483647
+    },
+    "customerName": "Natalie Poli",
+    "Discount": 0.4,
+    "price": 3963.90,
+    "priceWithDiscount": 2378.34
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Tacoma",
+      "travelledDistance": 922337807
+    },
+    "customerName": "Johnette Derryberry",
+    "Discount": 0.15,
+    "price": 6560.92,
+    "priceWithDiscount": 5576.78
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "F04",
+      "travelledDistance": 100000
+    },
+    "customerName": "Taina Achenbach",
+    "Discount": 0.15,
+    "price": 5332.18,
+    "priceWithDiscount": 4532.35
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Omega",
+      "travelledDistance": 9223336854775807
+    },
+    "customerName": "Teddy Hobby",
+    "Discount": 0.1,
+    "price": 3695.81,
+    "priceWithDiscount": 3326.23
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "M Roadster E85",
+      "travelledDistance": 92233720365807
+    },
+    "customerName": "Kristian Engberg",
+    "Discount": 0.5,
+    "price": 7669.88,
+    "priceWithDiscount": 3834.94
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Alaskan",
+      "travelledDistance": 2647
+    },
+    "customerName": "Sylvie Mcelravy",
+    "Discount": 0.3,
+    "price": 3786.84,
+    "priceWithDiscount": 2650.79
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "306",
+      "travelledDistance": 2036854775807
+    },
+    "customerName": "Marcelle Griego",
+    "Discount": 0.15,
+    "price": 9182.07,
+    "priceWithDiscount": 7804.76
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Yaris",
+      "travelledDistance": 94775807
+    },
+    "customerName": "Sylvie Mcelravy",
+    "Discount": 0.2,
+    "price": 8348.08,
+    "priceWithDiscount": 6678.46
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Corvette",
+      "travelledDistance": 92233720375807
+    },
+    "customerName": "Sylvie Mcelravy",
+    "Discount": 0.15,
+    "price": 3353.15,
+    "priceWithDiscount": 2850.18
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Caprice",
+      "travelledDistance": 2147483647
+    },
+    "customerName": "Carole Witman",
+    "Discount": 0.5,
+    "price": 2020.96,
+    "priceWithDiscount": 1010.48
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Sandero",
+      "travelledDistance": 922337254775807
+    },
+    "customerName": "Donnetta Soliz",
+    "Discount": 0.2,
+    "price": 920.56,
+    "priceWithDiscount": 736.45
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Mii",
+      "travelledDistance": 214783647
+    },
+    "customerName": "Jimmy Grossi",
+    "Discount": 0.15,
+    "price": 771.79,
+    "priceWithDiscount": 656.02
+  },
+  {
+    "car": {
+      "make": "Alfa Romeo",
+      "model": "Alfetta",
+      "travelledDistance": 92233720775807
+    },
+    "customerName": "Ann Mcenaney",
+    "Discount": 0.05,
+    "price": 1377.36,
+    "priceWithDiscount": 1308.49
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C5",
+      "travelledDistance": 922334775807
+    },
+    "customerName": "Rema Revelle",
+    "Discount": 0.1,
+    "price": 1572.83,
+    "priceWithDiscount": 1415.55
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "206",
+      "travelledDistance": 21474647
+    },
+    "customerName": "Carri Knapik",
+    "Discount": 0.1,
+    "price": 4420.16,
+    "priceWithDiscount": 3978.14
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C1",
+      "travelledDistance": 9223775807
+    },
+    "customerName": "Garret Capron",
+    "Discount": 0.15,
+    "price": 5697.49,
+    "priceWithDiscount": 4842.87
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C5",
+      "travelledDistance": 2147483647
+    },
+    "customerName": "Donnetta Soliz",
+    "Discount": 0.15,
+    "price": 5981.66,
+    "priceWithDiscount": 5084.41
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "M5 F10",
+      "travelledDistance": 27483647
+    },
+    "customerName": "Donnetta Soliz",
+    "Discount": 0.3,
+    "price": 4313.22,
+    "priceWithDiscount": 3019.25
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Camry Hybrid",
+      "travelledDistance": 92275807
+    },
+    "customerName": "Yvonne Mccalla",
+    "Discount": 0.3,
+    "price": 4027.90,
+    "priceWithDiscount": 2819.53
+  },
+  {
+    "car": {
+      "make": "Alfa Romeo",
+      "model": "75",
+      "travelledDistance": 72036854775807
+    },
+    "customerName": "Jimmy Grossi",
+    "Discount": 0.5,
+    "price": 2190.26,
+    "priceWithDiscount": 1095.13
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W211",
+      "travelledDistance": 47757
+    },
+    "customerName": "Kristian Engberg",
+    "Discount": 0.1,
+    "price": 1776.19,
+    "priceWithDiscount": 1598.57
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C4",
+      "travelledDistance": 213647
+    },
+    "customerName": "Carri Knapik",
+    "Discount": 0.3,
+    "price": 4424.81,
+    "priceWithDiscount": 3097.37
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C8",
+      "travelledDistance": 2147447
+    },
+    "customerName": "Garret Capron",
+    "Discount": 0.2,
+    "price": 5749.25,
+    "priceWithDiscount": 4599.40
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "306",
+      "travelledDistance": 2036854775807
+    },
+    "customerName": "Sylvie Mcelravy",
+    "Discount": 0.2,
+    "price": 9182.07,
+    "priceWithDiscount": 7345.66
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "Elysée",
+      "travelledDistance": 922354775807
+    },
+    "customerName": "Rema Revelle",
+    "Discount": 0.2,
+    "price": 1829.83,
+    "priceWithDiscount": 1463.86
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "id": 29,
+    "name": "Louann Holzworth",
+    "birthDate": "1960-10-01T00:00",
+    "isYoungDriver": false,
+    "purchases": []
+  },
+  {
+    "id": 28,
+    "name": "Donnetta Soliz",
+    "birthDate": "1963-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "BMW",
+          "model": "M5 F10",
+          "travelledDistance": 27483647
+        },
+        "discountPercentage": 0.3
+      },
+      {
+        "car": {
+          "make": "Dacia",
+          "model": "Sandero",
+          "travelledDistance": 922337254775807
+        },
+        "discountPercentage": 0.2
+      },
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C5",
+          "travelledDistance": 2147483647
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rema Revelle",
+    "birthDate": "1970-05-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "Elysée",
+          "travelledDistance": 922354775807
+        },
+        "discountPercentage": 0.2
+      },
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C5",
+          "travelledDistance": 922334775807
+        },
+        "discountPercentage": 0.1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Carri Knapik",
+    "birthDate": "1972-02-02T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C4",
+          "travelledDistance": 213647
+        },
+        "discountPercentage": 0.3
+      },
+      {
+        "car": {
+          "make": "Peugeot",
+          "model": "206",
+          "travelledDistance": 21474647
+        },
+        "discountPercentage": 0.1
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Garret Capron",
+    "birthDate": "1975-07-01T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C1",
+          "travelledDistance": 9223775807
+        },
+        "discountPercentage": 0.15
+      },
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C8",
+          "travelledDistance": 2147447
+        },
+        "discountPercentage": 0.2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Teddy Hobby",
+    "birthDate": "1975-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Opel",
+          "model": "Omega",
+          "travelledDistance": 9223336854775807
+        },
+        "discountPercentage": 0.1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Audrea Cardinal",
+    "birthDate": "1976-10-01T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Renault",
+          "model": "Alaskan",
+          "travelledDistance": 92807
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Francis Mckim",
+    "birthDate": "1977-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Citroen",
+          "model": "C1",
+          "travelledDistance": 92236854775807
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brett Brickley",
+    "birthDate": "1980-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "BMW",
+          "model": "M Roadster E85",
+          "travelledDistance": 92233720365807
+        },
+        "discountPercentage": 0.5
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kristian Engberg",
+    "birthDate": "1981-10-03T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Mercedes",
+          "model": "W211",
+          "travelledDistance": 47757
+        },
+        "discountPercentage": 0.1
+      },
+      {
+        "car": {
+          "make": "BMW",
+          "model": "M Roadster E85",
+          "travelledDistance": 92233720365807
+        },
+        "discountPercentage": 0.5
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Hipolito Lamoreaux",
+    "birthDate": "1982-08-01T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 4,
+    "name": "Zada Attwood",
+    "birthDate": "1982-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 25,
+    "name": "Sylvie Mcelravy",
+    "birthDate": "1983-10-01T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Renault",
+          "model": "Alaskan",
+          "travelledDistance": 2647
+        },
+        "discountPercentage": 0.3
+      },
+      {
+        "car": {
+          "make": "Peugeot",
+          "model": "306",
+          "travelledDistance": 2036854775807
+        },
+        "discountPercentage": 0.2
+      },
+      {
+        "car": {
+          "make": "Chevy",
+          "model": "Corvette",
+          "travelledDistance": 92233720375807
+        },
+        "discountPercentage": 0.15
+      },
+      {
+        "car": {
+          "make": "Toyota",
+          "model": "Yaris",
+          "travelledDistance": 94775807
+        },
+        "discountPercentage": 0.2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rico Peer",
+    "birthDate": "1984-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 5,
+    "name": "Hai Everton",
+    "birthDate": "1985-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 6,
+    "name": "Lino Subia",
+    "birthDate": "1985-12-21T00:00",
+    "isYoungDriver": false,
+    "purchases": []
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Grossi",
+    "birthDate": "1986-07-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Alfa Romeo",
+          "model": "75",
+          "travelledDistance": 72036854775807
+        },
+        "discountPercentage": 0.5
+      },
+      {
+        "car": {
+          "make": "Seat",
+          "model": "Mii",
+          "travelledDistance": 214783647
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carole Witman",
+    "birthDate": "1987-10-01T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Mercedes",
+          "model": "A 160",
+          "travelledDistance": 9223372036
+        },
+        "discountPercentage": 0.05
+      },
+      {
+        "car": {
+          "make": "Chevy",
+          "model": "Caprice",
+          "travelledDistance": 2147483647
+        },
+        "discountPercentage": 0.5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Oren Perlman",
+    "birthDate": "1988-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 2,
+    "name": "Natalie Poli",
+    "birthDate": "1990-10-04T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Peugeot",
+          "model": "206",
+          "travelledDistance": 2147483647
+        },
+        "discountPercentage": 0.4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marcelle Griego",
+    "birthDate": "1990-10-04T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Peugeot",
+          "model": "306",
+          "travelledDistance": 2036854775807
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Yvonne Mccalla",
+    "birthDate": "1992-03-02T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Toyota",
+          "model": "Camry Hybrid",
+          "travelledDistance": 92275807
+        },
+        "discountPercentage": 0.3
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Ann Mcenaney",
+    "birthDate": "1992-03-02T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Alfa Romeo",
+          "model": "Alfetta",
+          "travelledDistance": 92233720775807
+        },
+        "discountPercentage": 0.05
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cinthia Lasala",
+    "birthDate": "1992-11-01T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 1,
+    "name": "Emmitt Benally",
+    "birthDate": "1993-11-20T00:00",
+    "isYoungDriver": true,
+    "purchases": []
+  },
+  {
+    "id": 20,
+    "name": "Nisha Markwell",
+    "birthDate": "1994-04-04T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "Chevy",
+          "model": "Matiz",
+          "travelledDistance": 922337203685807
+        },
+        "discountPercentage": 0.2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Faustina Burgher",
+    "birthDate": "1994-06-01T00:00",
+    "isYoungDriver": false,
+    "purchases": []
+  },
+  {
+    "id": 18,
+    "name": "Taina Achenbach",
+    "birthDate": "1994-10-01T00:00",
+    "isYoungDriver": false,
+    "purchases": [
+      {
+        "car": {
+          "make": "BMW",
+          "model": "F04",
+          "travelledDistance": 100000
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Johnette Derryberry",
+    "birthDate": "1995-10-01T00:00",
+    "isYoungDriver": true,
+    "purchases": [
+      {
+        "car": {
+          "make": "Toyota",
+          "model": "Tacoma",
+          "travelledDistance": 922337807
+        },
+        "discountPercentage": 0.15
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Daniele Zarate",
+    "birthDate": "1995-10-05T00:00",
+    "isYoungDriver": false,
+    "purchases": []
+  }
+]
