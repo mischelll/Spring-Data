@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category name="Garden">
+        <products-count>1681</products-count>
+        <average-price>855.817561</average-price>
+        <total-revenue>1438629.32</total-revenue>
+    </category>
+    <category name="Autoparts">
+        <products-count>1521</products-count>
+        <average-price>723.227949</average-price>
+        <total-revenue>1100029.71</total-revenue>
+    </category>
+    <category name="Drugs">
+        <products-count>1444</products-count>
+        <average-price>719.789474</average-price>
+        <total-revenue>1039376.00</total-revenue>
+    </category>
+    <category name="Other">
+        <products-count>1296</products-count>
+        <average-price>678.824444</average-price>
+        <total-revenue>879756.48</total-revenue>
+    </category>
+    <category name="Electronics">
+        <products-count>1156</products-count>
+        <average-price>780.205294</average-price>
+        <total-revenue>901917.32</total-revenue>
+    </category>
+    <category name="Weapons">
+        <products-count>1156</products-count>
+        <average-price>766.570294</average-price>
+        <total-revenue>886155.26</total-revenue>
+    </category>
+    <category name="Sports">
+        <products-count>1156</products-count>
+        <average-price>942.309706</average-price>
+        <total-revenue>1089310.02</total-revenue>
+    </category>
+    <category name="Business">
+        <products-count>1089</products-count>
+        <average-price>628.130606</average-price>
+        <total-revenue>684034.23</total-revenue>
+    </category>
+    <category name="For Children">
+        <products-count>1024</products-count>
+        <average-price>679.993438</average-price>
+        <total-revenue>696313.28</total-revenue>
+    </category>
+    <category name="Adult">
+        <products-count>961</products-count>
+        <average-price>790.040645</average-price>
+        <total-revenue>759229.06</total-revenue>
+    </category>
+    <category name="Fashion">
+        <products-count>841</products-count>
+        <average-price>934.240345</average-price>
+        <total-revenue>785696.13</total-revenue>
+    </category>
+</categories>

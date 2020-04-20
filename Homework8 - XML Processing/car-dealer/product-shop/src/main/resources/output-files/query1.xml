@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Prednisone" price="550.72" seller="Bennett"/>
+    <product name="Diastat" price="614.14" seller="Lawson"/>
+    <product name="PRIMAXIN" price="686.66" seller="Peterson"/>
+    <product name="Pleo Lat" price="720.08" seller="Lawson"/>
+    <product name="Spironolactone" price="933.69" seller="Patricia Cooper"/>
+</products>
